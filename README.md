@@ -32,3 +32,6 @@ FEATURES::
 3.Model training with algorithms like Linear Regression, Random Forest, etc.
 4.Model evaluation with metrics such as RMSE, R² score
 5.Feature importance analysis
+
+ACCESS FILE from here :::
+https://colab.research.google.com/drive/1oA0iJB7u7dZd5MDSP-44ECZOmLwHObnB?usp=sharing
